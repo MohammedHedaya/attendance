@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956495561098",
+    "project_id": "attende-6b8df",
+    "storage_bucket": "attende-6b8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956495561098:android:7a02069b75312ac0588873",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956495561098-8lpe4pmaedi225l4n7to7r75k49vi3gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgOWIqsbMpmWtc1A_mhrIHxRysAXWXdQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956495561098-8lpe4pmaedi225l4n7to7r75k49vi3gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
